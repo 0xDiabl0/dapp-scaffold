@@ -6,7 +6,7 @@ Scaffolding for a dapp built on Solana
 ```bash
 git clone https://github.com/solana-labs/dapp-scaffold.git
 
-cd dapp-scaffold
+cd sol_ear
 ```
 
 ```bash
